@@ -1,0 +1,8 @@
+{
+  "editor.quickSuggestions": {
+    "other": "off"
+  },
+  "editor.suggestOnTriggerCharacters": false,
+  "pylint.enabled": false,
+  "python.languageServer": "None"
+}
